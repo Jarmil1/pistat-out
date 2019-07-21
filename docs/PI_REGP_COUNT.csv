@@ -1,2 +1,2 @@
-stat_id;date;value;
-PI_REGP_COUNT;21.07.2019;6310.0;
+stat_id;date;value;method;
+PI_REGP_COUNT;21.07.2019;6310.0;Pocet registrovanych priznivcu (scrappingem z https://forum.pirati.cz/memberlist.php?mode=group&g=74);
