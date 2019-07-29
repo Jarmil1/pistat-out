@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_MO_OPENTICKETS_COUNT;29.07.2019;63.0;Pocet otevrenych podani slozky Medialni odbor, REST dotazem do Redmine;

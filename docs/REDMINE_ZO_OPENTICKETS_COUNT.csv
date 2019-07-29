@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_ZO_OPENTICKETS_COUNT;29.07.2019;7.0;Pocet otevrenych podani slozky Zahranicni odbor, REST dotazem do Redmine;

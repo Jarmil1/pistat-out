@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_RV_OPENTICKETS_COUNT;29.07.2019;10.0;Pocet otevrenych podani slozky Republikovy vybor, REST dotazem do Redmine;

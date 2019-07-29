@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_KK_OPENTICKETS_COUNT;29.07.2019;130.0;Pocet otevrenych podani slozky Kontrolni komise, REST dotazem do Redmine;

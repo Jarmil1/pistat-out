@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_PRAVNI_OPENTICKETS_AGE;29.07.2019;536.22;Prumerne stari otevrenych podani slozky Pravni tym, REST dotazem do Redmine;
