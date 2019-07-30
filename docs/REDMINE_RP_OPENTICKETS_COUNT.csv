@@ -1,2 +1,3 @@
 stat_id;date;value;method;
 REDMINE_RP_OPENTICKETS_COUNT;29.07.2019;52.0;Pocet otevrenych podani slozky Republikove predsednictvo, REST dotazem do Redmine;
+REDMINE_RP_OPENTICKETS_COUNT;30.07.2019;52.0;Pocet otevrenych podani slozky Republikove predsednictvo, REST dotazem do Redmine;
