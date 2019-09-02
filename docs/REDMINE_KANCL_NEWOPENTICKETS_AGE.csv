@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_KANCL_NEWOPENTICKETS_AGE;02.09.2019;179.29;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kancelar strany, REST dotazem do Redmine;

@@ -1,0 +1,2 @@
+stat_id;date;value;method;
+REDMINE_PRAVNI_NEWOPENTICKETS_AGE;02.09.2019;138.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Pravni tym, REST dotazem do Redmine;
