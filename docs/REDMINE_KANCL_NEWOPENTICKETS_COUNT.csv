@@ -1,2 +1,3 @@
 stat_id;date;value;method;
 REDMINE_KANCL_NEWOPENTICKETS_COUNT;02.09.2019;77.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kancelar strany, REST dotazem do Redmine;
+REDMINE_KANCL_NEWOPENTICKETS_COUNT;03.09.2019;77.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kancelar strany, REST dotazem do Redmine;

@@ -1,2 +1,3 @@
 stat_id;date;value;method;
 REDMINE_KK_NEWOPENTICKETS_AGE;02.09.2019;199.67;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;
+REDMINE_KK_NEWOPENTICKETS_AGE;03.09.2019;171.86;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;
