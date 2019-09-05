@@ -1,3 +1,4 @@
 stat_id;date;value;method;
 REDMINE_MO_NEWOPENTICKETS_COUNT;02.09.2019;8.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Medialni odbor, REST dotazem do Redmine;
 REDMINE_MO_NEWOPENTICKETS_COUNT;03.09.2019;9.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Medialni odbor, REST dotazem do Redmine;
+REDMINE_MO_NEWOPENTICKETS_COUNT;04.09.2019;9.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Medialni odbor, REST dotazem do Redmine;
