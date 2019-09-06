@@ -2,3 +2,4 @@ stat_id;date;value;method;
 REDMINE_KK_NEWOPENTICKETS_COUNT;02.09.2019;6.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;
 REDMINE_KK_NEWOPENTICKETS_COUNT;03.09.2019;7.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;
 REDMINE_KK_NEWOPENTICKETS_COUNT;04.09.2019;7.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;
+REDMINE_KK_NEWOPENTICKETS_COUNT;05.09.2019;7.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Kontrolni komise, REST dotazem do Redmine;

@@ -2,3 +2,4 @@ stat_id;date;value;method;
 REDMINE_AO_NEWOPENTICKETS_COUNT;02.09.2019;68.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Administrativni odbor, REST dotazem do Redmine;
 REDMINE_AO_NEWOPENTICKETS_COUNT;03.09.2019;71.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Administrativni odbor, REST dotazem do Redmine;
 REDMINE_AO_NEWOPENTICKETS_COUNT;04.09.2019;65.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Administrativni odbor, REST dotazem do Redmine;
+REDMINE_AO_NEWOPENTICKETS_COUNT;05.09.2019;65.0;Prumerne stari otevrenych podani (po 1.1.2019) slozky Administrativni odbor, REST dotazem do Redmine;
